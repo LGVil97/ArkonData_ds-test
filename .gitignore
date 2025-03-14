@@ -6,6 +6,7 @@ tempCodeRunnerFile*
 *.ipynb_checkpoints/
 results/
 datasets/
+trained_models/
 node_modules/
 .idea/
 *.egg-info/
